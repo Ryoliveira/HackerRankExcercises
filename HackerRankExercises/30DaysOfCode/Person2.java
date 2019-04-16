@@ -1,5 +1,7 @@
 import java.util.*;
 
+
+//Day 12: Inheritance
 class Person2 {
 	protected String firstName;
 	protected String lastName;
