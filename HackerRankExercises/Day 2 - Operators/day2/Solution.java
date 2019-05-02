@@ -1,6 +1,7 @@
+package day2;
 import java.util.*;
 
-public class Day2Operators {
+public class Solution {
 
 	// Complete the solve function below.
 	static void solve(double meal_cost, int tip_percent, int tax_percent) {

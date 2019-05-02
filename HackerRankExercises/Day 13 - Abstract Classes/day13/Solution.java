@@ -1,9 +1,10 @@
+package day13;
 import java.util.*;
 
 
 
 //Day 13: Abstract Classes
-public class Day13AbstractClasses {
+public class Solution {
 	
 	 public static void main(String[] args) {
 	        Scanner scanner = new Scanner(System.in);

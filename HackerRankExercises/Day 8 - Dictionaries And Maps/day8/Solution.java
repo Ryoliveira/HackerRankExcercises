@@ -1,8 +1,9 @@
+package day8;
 import java.util.*;
 import java.io.*;
 
 //Day 8: Dictionaries and Maps
-public class Day8DictionariesAndMaps {
+public class Solution {
 	
 	public static void main(String []argh){
         Scanner in = new Scanner(System.in);

@@ -1,9 +1,10 @@
+package day15;
 import java.io.*;
 import java.util.*;
 
 
 //Day 15: Linked List
-public class Day15LinkedList {
+public class Solution {
 	
     public static  Node insert(Node head,int data) {
         if(head==null){

@@ -1,9 +1,10 @@
+package day6;
 import java.io.*;
 import java.util.*;
 
 
 //Day 6: Let's Review
-public class Day6LetsReview {
+public class Solution {
 	
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);

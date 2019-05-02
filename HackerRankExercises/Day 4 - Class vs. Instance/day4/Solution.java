@@ -1,11 +1,13 @@
+package day4;
 import java.io.*;
 import java.util.*;
 
+
 //Day 4: Class vs. Instance
-public class Person {
+public class Solution {
     private int age;	
   
-	public Person(int initialAge) {
+	public Solution(int initialAge) {
   		// Add some more code to run some checks on initialAge
 		age = (initialAge < 0) ? 0 : initialAge; 
 		if(age==0) System.out.println("Age is not valid, setting age to 0.");
@@ -30,7 +32,7 @@ public class Person {
 		int T = sc.nextInt();
 		for (int i = 0; i < T; i++) {
 			int age = sc.nextInt();
-			Person p = new Person(age);
+			Solution p = new Solution(age);
 			p.amIOld();
 			for (int j = 0; j < 3; j++) {
 				p.yearPasses();

@@ -1,3 +1,4 @@
+package day11;
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -7,7 +8,7 @@ import java.util.concurrent.*;
 import java.util.regex.*;
 
 //Day 11: 2D Arrays1
-public class Day112DArrays {
+public class Solution {
 	
     private static final Scanner scanner = new Scanner(System.in);
 

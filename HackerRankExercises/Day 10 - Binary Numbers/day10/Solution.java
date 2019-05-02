@@ -1,3 +1,4 @@
+package day10;
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -7,7 +8,7 @@ import java.util.concurrent.*;
 import java.util.regex.*;
 
 //Day 10: Binary Numbers
-public class Day10BinaryNumbers {
+public class Solution {
 	
 	private static final Scanner scanner = new Scanner(System.in);
 

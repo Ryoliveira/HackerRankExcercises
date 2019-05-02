@@ -1,7 +1,8 @@
+package day0;
 import java.util.*;
 
 
-public class Day0HelloWorld {
+public class Solution {
 
 	public static void main(String[] args) {
         // Create a Scanner object to read input from stdin.

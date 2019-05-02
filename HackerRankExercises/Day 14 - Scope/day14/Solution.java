@@ -1,3 +1,4 @@
+package day14;
 import java.io.*;
 import java.util.*;
 import java.text.*;
@@ -6,7 +7,7 @@ import java.util.regex.*;
 
 
 //Day 14: Scope
-public class Day14Scope {
+public class Solution {
 	
 	public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

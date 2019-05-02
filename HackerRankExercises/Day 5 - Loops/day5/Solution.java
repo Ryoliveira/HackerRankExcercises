@@ -1,3 +1,4 @@
+package day5;
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -8,7 +9,7 @@ import java.util.regex.*;
 
 
 //Day 5: Loops
-public class Day5Loops {
+public class Solution {
 	
 	private static final Scanner scanner = new Scanner(System.in);
 

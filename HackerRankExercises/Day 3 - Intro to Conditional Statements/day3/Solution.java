@@ -1,7 +1,8 @@
+package day3;
 import java.util.*;
 
 
-public class Day3IntrotoConditionalStatements {
+public class Solution {
 	
 	private static final Scanner scanner = new Scanner(System.in);
 

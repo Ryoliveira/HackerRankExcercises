@@ -1,3 +1,4 @@
+package day9;
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -9,7 +10,7 @@ import java.util.regex.*;
 
 
 //Day 9: Recursion 3
-public class Day9Recursion3 {
+public class Solution {
 	
     // Complete the factorial function below.
     static int factorial(int n) {

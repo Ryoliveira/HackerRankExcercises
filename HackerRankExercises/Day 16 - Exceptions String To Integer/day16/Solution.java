@@ -1,3 +1,4 @@
+package day16;
 import java.io.*;
 import java.util.*;
 import java.text.*;
@@ -6,7 +7,7 @@ import java.util.regex.*;
 
 
 //Day 16: Exceptions - String to Integer
-public class Day16ExceptionsStringToInteger {
+public class Solution {
 	
 	 public static void main(String[] args) {
 	        Scanner in = new Scanner(System.in);
