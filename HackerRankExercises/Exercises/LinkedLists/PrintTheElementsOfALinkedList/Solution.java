@@ -1,3 +1,4 @@
+package PrintTheElementsOfALinkedList;
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -7,7 +8,7 @@ import java.util.concurrent.*;
 import java.util.regex.*;
 
 
-public class PrintTheElementsOfALinkedList {
+public class Solution {
 	
 	static class SinglyLinkedListNode {
         public int data;

@@ -1,6 +1,7 @@
+package JavaRegex;
 import java.util.Scanner;
 
-public class JavaRegex {
+public class Solution {
 
 	public static void main(String[] args) {
 		// HackerRank Code

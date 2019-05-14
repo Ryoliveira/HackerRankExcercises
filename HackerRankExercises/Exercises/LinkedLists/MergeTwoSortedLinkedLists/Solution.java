@@ -1,3 +1,4 @@
+package MergeTwoSortedLinkedLists;
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -7,7 +8,7 @@ import java.util.concurrent.*;
 import java.util.regex.*;
 
 //Merge two sorted linked lists
-public class MergeTwoSortedLinkedLists {
+public class Solution {
 
     static class SinglyLinkedListNode {
         public int data;

@@ -1,7 +1,8 @@
+package Java1DArray;
 import java.util.*;
 
 
-public class Java1DArray {
+public class Solution {
 	
 	public static void main(String[] args) {
 		   

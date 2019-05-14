@@ -1,3 +1,4 @@
+package LeftRotation;
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -6,7 +7,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class LeftRotation {
+public class Solution {
 
 	private static final Scanner scanner = new Scanner(System.in);
 

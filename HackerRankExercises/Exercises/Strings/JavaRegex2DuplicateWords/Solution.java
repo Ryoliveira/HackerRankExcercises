@@ -1,3 +1,4 @@
+package JavaRegex2DuplicateWords;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -5,7 +6,7 @@ import java.util.regex.Pattern;
 
 
 
-public class JavaRegex2DuplicateWords {
+public class Solution {
 	
 	public static void main(String[] args) {
 		//Study this regex

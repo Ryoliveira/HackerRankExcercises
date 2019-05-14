@@ -1,7 +1,8 @@
+package JavaStringReverse;
 import java.util.*;
 
 
-public class JavaStringReverse {
+public class Solution {
 	
 public static void main(String[] args) {
           //HackerRank Code            

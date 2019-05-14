@@ -1,3 +1,4 @@
+package DynamicArray;
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -11,7 +12,7 @@ import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
 
-public class DynamicArray {
+public class Solution {
 	
 	 // Complete the dynamicArray function below.
     static List<Integer> dynamicArray(int n, List<List<Integer>> queries) {

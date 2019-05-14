@@ -1,3 +1,4 @@
+package SparseArrays;
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -6,7 +7,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class SparseArrays {
+public class Solution {
 
 	// Complete the matchingStrings function below.
 	static int[] matchingStrings(String[] strings, String[] queries) {

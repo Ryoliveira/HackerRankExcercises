@@ -1,3 +1,4 @@
+package CompareTwoLinkedLists;
 import java.io.*;
 import java.math.*;
 import java.text.*;
@@ -5,7 +6,7 @@ import java.util.*;
 import java.util.regex.*;
 
 //Compare two linked lists
-public class CompareTwoLinkedLists {
+public class Solution {
 	
     static class SinglyLinkedListNode {
         public int data;

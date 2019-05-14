@@ -1,7 +1,8 @@
+package ArraysDS2;
 import java.io.*;
 import java.util.*;
 
-public class ArrayDS2 {
+public class Solution {
 
 	// Complete the hourglassSum function below.
 	static int hourglassSum(int[][] arr) {

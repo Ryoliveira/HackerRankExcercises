@@ -1,3 +1,4 @@
+package DeleteDuplicateValueNodesFromASortedLinkedList;
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -7,7 +8,7 @@ import java.util.concurrent.*;
 import java.util.regex.*;
 
 //Delete duplicate-value nodes from a sorted linked list
-public class DeleteDuplicateValueNodesFromASortedLinkedList {
+public class Solution {
 	
 
     static class SinglyLinkedListNode {

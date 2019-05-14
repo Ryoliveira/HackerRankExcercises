@@ -1,7 +1,8 @@
+package JavaSubString;
 import java.util.*;
 
 
-public class JavaSubstring {
+public class Solution {
 	
 	public static void main(String[] args) {
 		  //Hacker Rank code

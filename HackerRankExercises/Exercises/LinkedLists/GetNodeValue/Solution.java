@@ -1,3 +1,4 @@
+package GetNodeValue;
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -7,7 +8,7 @@ import java.util.concurrent.*;
 import java.util.regex.*;
 
 //Get Node Value
-public class GetNodeValue {
+public class Solution {
 	
 
     static class SinglyLinkedListNode {

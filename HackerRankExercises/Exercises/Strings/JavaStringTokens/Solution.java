@@ -1,8 +1,9 @@
+package JavaStringTokens;
 import java.io.*;
 import java.util.*;
 
 //Java String Tokens
-public class JavaStringTokens {
+public class Solution {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

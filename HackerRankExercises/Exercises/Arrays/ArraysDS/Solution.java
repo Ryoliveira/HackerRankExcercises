@@ -1,8 +1,9 @@
+package ArraysDS;
 import java.io.*;
 import java.util.*;
 
 
-public class ArraysDS {
+public class Solution {
 	// Complete the reverseArray function below.
 	static int[] reverseArray(int[] a) {
 		int l = a.length;

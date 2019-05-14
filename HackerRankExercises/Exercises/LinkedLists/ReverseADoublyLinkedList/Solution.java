@@ -1,3 +1,4 @@
+package ReverseADoublyLinkedList;
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -7,7 +8,7 @@ import java.util.concurrent.*;
 import java.util.regex.*;
 
 //Reverse a doubly linked list
-public class ReverseADoublyLinkedList {
+public class Solution {
 	
 
     static class DoublyLinkedListNode {

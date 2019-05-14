@@ -1,3 +1,4 @@
+package InsertingANodeIntoASortedDoublyLinkedList;
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -7,7 +8,7 @@ import java.util.concurrent.*;
 import java.util.regex.*;
 
 //Inserting a Node Into a Sorted Doubly Linked List
-public class InsertingANodeIntoASortedDoublyLinkedList {
+public class Solution {
 	
 
     static class DoublyLinkedListNode {

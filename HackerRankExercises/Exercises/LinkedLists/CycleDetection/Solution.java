@@ -1,3 +1,4 @@
+package CycleDetection;
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -7,7 +8,7 @@ import java.util.concurrent.*;
 import java.util.regex.*;
 
 //Cycle Detection
-public class CycleDetection {
+public class Solution {
 
 	static class SinglyLinkedListNode {
 		public int data;

@@ -1,3 +1,4 @@
+package ReverseALinkedList;
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -6,7 +7,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class ReverseALinkedList {
+public class Solution {
 
 	static class SinglyLinkedListNode {
 		public int data;
